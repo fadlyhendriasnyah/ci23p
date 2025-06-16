@@ -1,2 +1,3 @@
 # CI_web23
- latihan ci 3
+ admin : admin
+	user : user
